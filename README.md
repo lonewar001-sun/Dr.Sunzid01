@@ -1,3 +1,3 @@
 # Dr.Sunzid01
-my first project here 
-author- Sunzid
+my first project here .
+Author- Sunzid
